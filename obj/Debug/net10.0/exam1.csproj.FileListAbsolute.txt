@@ -1,0 +1,15 @@
+/home/gleb/dev/exam1/bin/Debug/net10.0/exam1
+/home/gleb/dev/exam1/bin/Debug/net10.0/exam1.deps.json
+/home/gleb/dev/exam1/bin/Debug/net10.0/exam1.runtimeconfig.json
+/home/gleb/dev/exam1/bin/Debug/net10.0/exam1.dll
+/home/gleb/dev/exam1/bin/Debug/net10.0/exam1.pdb
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.AssemblyInfoInputs.cache
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.AssemblyInfo.cs
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.csproj.CoreCompileInputs.cache
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.sourcelink.json
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.dll
+/home/gleb/dev/exam1/obj/Debug/net10.0/refint/exam1.dll
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.pdb
+/home/gleb/dev/exam1/obj/Debug/net10.0/exam1.genruntimeconfig.cache
+/home/gleb/dev/exam1/obj/Debug/net10.0/ref/exam1.dll
